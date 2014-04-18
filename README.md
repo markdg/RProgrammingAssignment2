@@ -3,6 +3,8 @@ This is my addition to the readme file that was included with the Coursera R Pro
 
 All my comments about my solution are included in the code in the cachematrix.R file.
 
+I have tested my solution using the example shown in the comments in the code and it works.
+
 Original readme follows from here:
 
 ------------------------------------------------------------------------------------
