@@ -1,3 +1,14 @@
+### My Introduction
+This is my addition to the readme file that was included with the Coursera R Programming Assignment 2. The original portion follows below.
+
+All my comments about my solution are included in the code in the cachematrix.R file.
+
+I have tested my solution with the example usage I included in the comments in the code and it works.
+
+Original readme follows from here:
+
+------------------------------------------------------------------------------------
+
 ### Introduction
 
 This second programming assignment will require you to write an R
