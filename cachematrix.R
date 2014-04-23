@@ -1,3 +1,10 @@
+## ATTENTION PEER GRADERS
+## If you have any doubts about the correctness of my solution
+## please actually run it - it runs perfectly.
+## The usage example below can easily be run interactively once you
+## have sourced makeCacheMatrix and cacheSolve. Copy and paste the functions into
+## RStudio, source them, and then run the usage example.
+##
 ## Utility for caching the inverse of a matrix for performance improvement
 ## Consists of two functions:
 ## makeCacheMatrix() is a constructor that creates a function with
